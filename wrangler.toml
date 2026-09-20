@@ -5,7 +5,7 @@ workers_dev = true
 preview_urls = false
 
 routes = [
-  { pattern = "ssh.dltwcnm.ccwu.cc", custom_domain = true }
+  { pattern = "ssh.050131.xyz", custom_domain = true }
 ]
 
 [build]
@@ -31,5 +31,5 @@ new_sqlite_classes = ["SSHSessionDO"]
 [[d1_databases]]
 binding = "DB"
 database_name = "edgessh-accounts"
-database_id = "2c1b7a95-a5d6-4a72-a8d2-4132b74aa268"
+database_id = "d8b4c8f6-9afb-4b5b-81ce-0847c33f2a2a"
 migrations_dir = "migrations"
